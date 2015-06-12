@@ -1,0 +1,1 @@
+var usergit = angular.module('usergit', ['ngResource']);
